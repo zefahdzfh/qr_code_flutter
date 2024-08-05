@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702287280880",
+    "project_id": "qr-code-pas",
+    "storage_bucket": "qr-code-pas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702287280880:android:6601ff75ead81ef259e035",
+        "android_client_info": {
+          "package_name": "com.example.qr_code_pas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpiQxU0Y9eutzREVQVZGyrLkE_gptDH14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
